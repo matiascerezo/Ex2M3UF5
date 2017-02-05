@@ -1,4 +1,4 @@
-package Exercici1;
+package Exercici1i2;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.InvocationTargetException;
